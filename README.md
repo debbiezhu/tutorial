@@ -1,2 +1,2 @@
 # tutorial
-a tutorial for golang
+a tutorial for typescript.
